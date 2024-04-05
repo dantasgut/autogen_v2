@@ -1,0 +1,5 @@
+autogen
+pyautogen
+pyautogen[retrievechat]
+chromadb
+pysqlite3
